@@ -2,7 +2,7 @@ Crear un programa que calcule el promedio de 4 notas de un estudiante. Si el pro
 
 1: Vista inicial
 
-[![imagen-2024-02-13-215602686.png](https://i.postimg.cc/2Sv2wNn3/imagen-2024-02-13-215602686.png)](https://postimg.cc/cvxRxj9N)
+[![ej1.png](https://i.postimg.cc/Gp6TXM9q/ej1.png)](https://postimg.cc/SX7Ksf6M)
 
 2: Llenado de campos y cálculo del promedio mediante el botón "Calcular".
 
